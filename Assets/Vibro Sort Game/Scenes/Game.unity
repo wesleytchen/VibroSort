@@ -4356,8 +4356,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b441275dfb596da4f8b981f8a3b9ba21, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  numObjsToSpawn: 20
-  minPerCat: 2
+  numObjsToSpawn: 12
+  minPerCat: 1
   scoreboard: {fileID: 1706502405}
   categoryMaterials:
   - {fileID: 2100000, guid: c70365d499631204e91ec1e5a3d82891, type: 2}
