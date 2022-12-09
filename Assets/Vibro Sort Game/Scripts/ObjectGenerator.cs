@@ -14,8 +14,8 @@ public enum ObjectCategory {
 
 public class ObjectGenerator : MonoBehaviour
 {
-    public int numObjsToSpawn = 20;
-    public int minPerCat = 2;
+    public int numObjsToSpawn = 12;
+    public int minPerCat = 1;
 
     public Scoreboard scoreboard;
     private int leftToSpawn;
@@ -39,6 +39,7 @@ public class ObjectGenerator : MonoBehaviour
         GameObject[] shuffledBins = bins.OrderBy(x => random.Next()).ToArray();
         for (int i = 0; i < shuffledBins.Length; i++) {
             shuffledBins[i].GetComponent<Renderer>().material = categoryMaterials[i];
+            shuffledBins[i].GetComponent<SortInteractable>().objectCategory = (ObjectCategory)i;
             shuffledBins[i].transform.GetChild(0).GetComponent<BinCheck>().binCategory = (ObjectCategory)i;
         }
     }

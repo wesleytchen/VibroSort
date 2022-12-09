@@ -1384,6 +1384,114 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 502005022}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &502005029
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 502005023}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4951c353ebd5d034d85f9bedecc131ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hapticBuffer_amp:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0.5
+  - 1
+  - 0.5
+  - 0.5
+  - 0
+  - 0
+  hapticBuffer_freq:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0.5
+  - 1
+  - 0.5
+  - 0.5
+  - 0
+  - 0
+  isLoopableHaptic: 0
+  objectCategory: 0
+  hapticBuffer_pink:
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  hapticBuffer_red:
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  hapticBuffer_yellow:
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  hapticBuffer_green:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  hapticBuffer_blue:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
 --- !u!1 &535028792
 GameObject:
   m_ObjectHideFlags: 0
@@ -3265,6 +3373,114 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 1178141211}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1178141218
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1178141212}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4951c353ebd5d034d85f9bedecc131ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hapticBuffer_amp:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0.5
+  - 1
+  - 0.5
+  - 0.5
+  - 0
+  - 0
+  hapticBuffer_freq:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0.5
+  - 1
+  - 0.5
+  - 0.5
+  - 0
+  - 0
+  isLoopableHaptic: 0
+  objectCategory: 0
+  hapticBuffer_pink:
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  hapticBuffer_red:
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  hapticBuffer_yellow:
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  hapticBuffer_green:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  hapticBuffer_blue:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
 --- !u!1001 &1279922144
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3350,6 +3566,114 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 1279922144}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1279922151
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1279922145}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4951c353ebd5d034d85f9bedecc131ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hapticBuffer_amp:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0.5
+  - 1
+  - 0.5
+  - 0.5
+  - 0
+  - 0
+  hapticBuffer_freq:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0.5
+  - 1
+  - 0.5
+  - 0.5
+  - 0
+  - 0
+  isLoopableHaptic: 0
+  objectCategory: 0
+  hapticBuffer_pink:
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  hapticBuffer_red:
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  hapticBuffer_yellow:
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  hapticBuffer_green:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  hapticBuffer_blue:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
 --- !u!1001 &1333031006
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4683,6 +5007,114 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 1926184699}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1926184706
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1926184700}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4951c353ebd5d034d85f9bedecc131ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hapticBuffer_amp:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0.5
+  - 1
+  - 0.5
+  - 0.5
+  - 0
+  - 0
+  hapticBuffer_freq:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0.5
+  - 1
+  - 0.5
+  - 0.5
+  - 0
+  - 0
+  isLoopableHaptic: 0
+  objectCategory: 0
+  hapticBuffer_pink:
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  hapticBuffer_red:
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  hapticBuffer_yellow:
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  hapticBuffer_green:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  hapticBuffer_blue:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
 --- !u!1001 &2017786093
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5111,6 +5543,114 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 4336629074290926576}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &2123469939202475678
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2123469939202475672}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4951c353ebd5d034d85f9bedecc131ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hapticBuffer_amp:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0.5
+  - 1
+  - 0.5
+  - 0.5
+  - 0
+  - 0
+  hapticBuffer_freq:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0.5
+  - 1
+  - 0.5
+  - 0.5
+  - 0
+  - 0
+  isLoopableHaptic: 0
+  objectCategory: 0
+  hapticBuffer_pink:
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  hapticBuffer_red:
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  hapticBuffer_yellow:
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  hapticBuffer_green:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  hapticBuffer_blue:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
 --- !u!33 &2167001018179581522
 MeshFilter:
   m_ObjectHideFlags: 0

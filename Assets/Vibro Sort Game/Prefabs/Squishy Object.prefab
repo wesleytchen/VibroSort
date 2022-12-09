@@ -208,27 +208,87 @@ MonoBehaviour:
   - 1
   - 0
   - 0
-  - 0
-  - 0.5
   - 1
-  - 0.5
-  - 0.5
+  - 1
+  - 1
   - 0
   - 0
+  - 1
+  - 1
   hapticBuffer_freq:
   - 1
   - 1
   - 0
   - 0
-  - 0
-  - 0.5
   - 1
-  - 0.5
-  - 0.5
+  - 1
+  - 1
   - 0
+  - 0
+  - 1
   - 0
   isLoopableHaptic: 0
   objectCategory: 1
+  hapticBuffer_pink:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0
+  hapticBuffer_red:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  - 1
+  - 1
+  - 1
+  - 1
+  hapticBuffer_yellow:
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  hapticBuffer_green:
+  - 1
+  - 1
+  - 0
+  - 1
+  - 1
+  - 0
+  - 1
+  - 1
+  - 0
+  - 1
+  - 1
+  hapticBuffer_blue:
+  - 1
+  - 1
+  - 0
+  - 1
+  - 0
+  - 1
+  - 0
+  - 1
+  - 0
+  - 1
+  - 1
 --- !u!114 &174561582635970930
 MonoBehaviour:
   m_ObjectHideFlags: 0
